@@ -1,4 +1,4 @@
-# 📁 Feynn Labs Internship Portfolio
+# 📁 
 
 This repository contains a collection of machine learning and data science case study projects that I explored and analyzed for learning purposes.
 
