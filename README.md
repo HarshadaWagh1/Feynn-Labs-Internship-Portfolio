@@ -1,6 +1,15 @@
 # 📁 Feynn Labs Internship Portfolio
 
-Welcome to the repository containing all my project work completed during the **internship at Feynn Labs**. This folder includes detailed reports and code implementations of data science and machine learning projects developed during the internship period.
+This repository contains a collection of machine learning and data science case study projects that I explored and analyzed for learning purposes.
+
+These projects helped me strengthen my understanding of:
+
+- Clustering and Segmentation
+- Anomaly Detection
+- Data Analysis and Visualization
+- Real-world ML problem solving
+
+The repository includes project reports and code implementations used to study practical applications of machine learning techniques..
 
 ## 📝 Contents
 
@@ -31,6 +40,3 @@ Welcome to the repository containing all my project work completed during the **
 - **Data Visualization & Preprocessing Techniques**
 
 ---
-
-## 📌 Acknowledgement
-Grateful to **Feynn Labs** for providing this opportunity to explore real-world applications of data science and machine learning in diverse domains.
